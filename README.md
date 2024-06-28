@@ -1,9 +1,11 @@
-A collective attempt to define some standards for developer relations.
+# Developer Relations Standards
 
-This is a work in progress. You might find things here that are unpolished or incomplete.
+This is a collective effort to establish some standards for developer relations.
 
-As demand for developer relations (devrel) grows, we're feeling the immaturity of this field. The role is not well defined. There's not an established career ladder. We don't have decades of precedent to reference. Put bluntly: we're making this shit up as we go along.
+_This is an evolving document. You might come across sections that are unpolished or incomplete._
 
-This is a blessing and a curse. We're free to experiment and adapt, and that's a good thing. But there's also a lot of room for snake oil and bad incentives and "three marketing jobs in a trenchcoat (hoodie)", and that's not great.
+As the demand for developer relations (devrel) increases, we're navigating through the growing pains of a relatively young field. The role itself lacks a clear definition, there's no established career path, and we don't have decades of history to guide us. To put it simply: we're figuring this out as we go along.
 
-So let's talk about devrel a bit. Not to stifle anyone's creativity or to try and fit the folks in this role into a tidy box, but to help create a shared understanding of what the value of devrel is, how it impacts businesses and communities, and what devrel should not be.
+This brings both opportunities and challenges. On the bright side, we have the freedom to innovate and adapt, which is fantastic. However, it also opens the door to misleading practices and misguided incentives, which isn't ideal.
+
+Let's discuss devrel a bit more. Our goal is not to limit anyone's creativity or box people into rigid roles but to foster a shared understanding of the value devrel brings, its impact on businesses and communities, and what it should strive to avoid.
