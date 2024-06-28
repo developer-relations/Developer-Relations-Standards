@@ -1,8 +1,8 @@
 # Developer Relations Standards
 
-This is a collective effort to establish some standards for developer relations.
-
 > _This is an evolving document. You might come across sections that are unpolished or incomplete._
+
+This is a collective effort to establish some standards for developer relations.
 
 As the demand for developer relations (devrel) increases, we're navigating through the growing pains of a relatively young field. The role itself lacks a clear definition, there's no established career path, and we don't have decades of history to guide us. To put it simply: we're figuring this out as we go along.
 
