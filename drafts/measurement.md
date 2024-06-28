@@ -1,3 +1,5 @@
+> **Heads up!** This is a @jlengstorf brain dump. It might have incomplete thoughts, inconsistencies, or omissions. Please treat this document as a [shitty first draft](https://www.goodreads.com/quotes/288933-almost-all-good-writing-begins-with-terrible-first-efforts-you).
+
 # How to Measure DevRel
 
 ## Top of funnel
