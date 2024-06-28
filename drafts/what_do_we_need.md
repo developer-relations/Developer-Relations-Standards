@@ -1,6 +1,6 @@
 ## What Standards Should Exist?
 
-- **Career Ladders**: Career ladders that value individual contributors as much as managers.
+- **Career Ladders**: Create career ladders that value individual contributors as much as managers.
 - **Creating Content**: Guidelines for content that drive home the need for consistency, high quality, and technical accuracy. **Including social media guidelines.**
 - **Gathering Feedback**: It might be helpful to implement a system for collecting and analyzing community feedback, making sure it reaches the teams that need it.
 - **Planning Events**: Define DevRel’s role in events clearly, we are not events coordinators. What is our role specifically?
