@@ -14,4 +14,13 @@
 - **Advocating for Developer Needs**: Outline common strategies and the importance of advocating for the needs of the developer community internally.
 - **Community Engagement Strategy**: What does DevRel do that's different from Community Management? Where do our jobs overlap?
 
-- ## What Exists Already?
+## What Exists Already? Is it Good?
+
+- [Bear Douglas's Career Ladders](https://medium.com/several-people-are-coding/defining-a-career-path-for-developer-relations-cf70257352dd)
+- [Sarah Drasner's Developer Relations Career Ladders](https://www.devrel-ladders.com/)
+- [Measuring Developer Relations](https://www.swyx.io/measuring-devrel)
+- [DevRel Metrics That Matter](https://www.devrel.agency/post/survey-insights-devrel-metrics-that-matter)
+- [Finding the Perfect DevRel Metric](https://developeradvocate.com/2023/03/09/finding-the-perfect-devrel-metric/)
+- [Setting Up Rules for a Community: Create a Community Culture for Growth](https://orbit.love/article/rules-for-a-community)
+- [A Practical Guide to Building a Community from Scratch](https://orbit.love/blog/building-a-community)
+
